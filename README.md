@@ -1,5 +1,5 @@
 # Web-Technologies
-    Noviciação em Tecnologias Web
+
 ## Conteúdos Práticados:
 - **html-css**
    - Exercícios em Módulos
