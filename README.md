@@ -1,6 +1,6 @@
 # Web-Technologies
 
-## Conteúdos Práticados:
+## Conteúdos Praticados:
 - **html-css**
    - Exercícios em Módulos
 ---
