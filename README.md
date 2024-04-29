@@ -1,11 +1,10 @@
 # Web-Technologies
 
-## Conteúdos Praticados:
 - **html-css**
-   - Exercícios em Módulos
+   - *Suspended :(*
 ---
 - **JavaScript**
-    - *Em Atualização*
+    - *Searching Content :)*
 ---
 - **PHP**
-    - *Em Atualização*
+    - *Searching Content :)*
